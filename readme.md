@@ -1,4 +1,7 @@
-[<img align="left" alt="JavaScript" width="100%" src="./wallpaper.gif" />]
+<img align="left" alt="JavaScript" width="100%" src="./wallpaper.gif" />
+
+<br />
+
 ### Whats up!, BionPrbh here! 🖐️
 
 ## I'm a Frontend Web Developer. not a hacker! 👊 
