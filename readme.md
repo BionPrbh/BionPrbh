@@ -1,4 +1,6 @@
 <img align="left" alt="JavaScript" width="100%" src="./wallpaper.gif" />
+
+<br />
 Animation by [valenberg]
 
 <br />
