@@ -2,11 +2,8 @@
 
 Animation by [valenberg]
 
-<br />
-
 ### Whats up!, BionPrbh here! 🖐️
 
-<br />
 
 ## I'm a Frontend Web Developer. not a hacker! 👊 
 
