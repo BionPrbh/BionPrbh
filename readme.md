@@ -1,9 +1,11 @@
 <img align="left" alt="JavaScript" width="100%" src="./wallpaper.gif" />
+Animation by [Valenberg][animationby]
 
-<br />
 <br />
 
 ### Whats up!, BionPrbh here! 🖐️
+
+<br />
 
 ## I'm a Frontend Web Developer. not a hacker! 👊 
 
@@ -11,6 +13,8 @@
 - 📝 I’m currently polishing my backend and golang 🤣
 - 🤝 I’m looking for a small sized side project  
 - ⚡ Fun fact: If you love playing chess maybe we could trade a couple of pawns ♟️
+
+<br />
 
 ### Connect with me!
   Don't be shy! i am open minded, constructive criticism, and solution focused. make sure you contact me if you are interested with me and my team to bring your web alive! 😎
@@ -28,3 +32,4 @@
 [nodewebsite]: https://nodejs.org/en/
 [sqlbasic]: https://www.youtube.com/watch?v=7S_tz1z_5bA
 [mongodbwebsite]: https://www.mongodb.com/
+[animationby]: https://www.deviantart.com/valenberg/art/Rolly-Rocket-601618597
