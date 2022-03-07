@@ -24,10 +24,3 @@ Animation by [valenberg]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />] [nodewebsite]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />] [sqlbasic]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />] [mongodbwebsite]
-
-[jswebsite]: https://www.javascript.com
-[reactwebsite]: https://www.youtube.com/playlist?list=PLkwxH9e
-[nodewebsite]: https://nodejs.org/en
-[sqlbasic]: https://www.youtube.com/watch?v=7S_tz1z_5bA
-[mongodbwebsite]: https://www.mongodb.com
-[valenberg]: https://www.deviantart.com/valenberg/art/Rolly-Rocket-601618597
