@@ -8,8 +8,8 @@ Animation by [valenberg]
 ## I'm a Frontend Web Developer. not a hacker! 👊 
 
 - 💻 My base language is Javascript. I have experience on Mobile Development using React Native.
-- 📝 I’m currently polishing my backend and golang 🤣
-- 🤝 I’m looking for a small sized side project  
+- 📝 I’m currently polishing my backend
+- 🤝 Looking for a small sized side project  
 - ⚡ Fun fact: If you love playing chess maybe we could trade a couple of pawns ♟️
 
 <br />
